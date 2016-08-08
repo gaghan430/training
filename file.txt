@@ -1,8 +1,4 @@
 commit 1
 commit 2
-<<<<<<< Updated upstream
-commit 3
-=======
 commit 3	
->>>>>>> Stashed changes
 commit 5
